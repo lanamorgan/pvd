@@ -1,0 +1,466 @@
+> Task :buildSrc:compileKotlin NO-SOURCE
+> Task :buildSrc:compileJava NO-SOURCE
+> Task :buildSrc:compileGroovy NO-SOURCE
+> Task :buildSrc:processResources NO-SOURCE
+> Task :buildSrc:classes UP-TO-DATE
+> Task :buildSrc:inspectClassesForKotlinIC UP-TO-DATE
+> Task :buildSrc:jar UP-TO-DATE
+> Task :buildSrc:assemble UP-TO-DATE
+> Task :buildSrc:autostyleKotlinCheck NO-SOURCE
+> Task :buildSrc:autostyleKotlinGradleCheck UP-TO-DATE
+> Task :buildSrc:autostyleCheck UP-TO-DATE
+> Task :buildSrc:compileTestKotlin NO-SOURCE
+> Task :buildSrc:compileTestJava NO-SOURCE
+> Task :buildSrc:compileTestGroovy NO-SOURCE
+> Task :buildSrc:processTestResources NO-SOURCE
+> Task :buildSrc:testClasses UP-TO-DATE
+> Task :buildSrc:javacc:compileKotlin UP-TO-DATE
+> Task :buildSrc:javacc:compileJava NO-SOURCE
+> Task :buildSrc:fmpp:compileKotlin UP-TO-DATE
+> Task :buildSrc:buildext:compileKotlin UP-TO-DATE
+> Task :buildSrc:javacc:pluginDescriptors UP-TO-DATE
+> Task :buildSrc:fmpp:compileJava NO-SOURCE
+> Task :buildSrc:buildext:compileJava NO-SOURCE
+> Task :buildSrc:fmpp:pluginDescriptors UP-TO-DATE
+> Task :buildSrc:buildext:pluginDescriptors UP-TO-DATE
+> Task :buildSrc:javacc:processResources UP-TO-DATE
+> Task :buildSrc:javacc:classes UP-TO-DATE
+> Task :buildSrc:fmpp:processResources UP-TO-DATE
+> Task :buildSrc:fmpp:classes UP-TO-DATE
+> Task :buildSrc:buildext:processResources UP-TO-DATE
+> Task :buildSrc:buildext:classes UP-TO-DATE
+> Task :buildSrc:javacc:inspectClassesForKotlinIC UP-TO-DATE
+> Task :buildSrc:fmpp:inspectClassesForKotlinIC UP-TO-DATE
+> Task :buildSrc:buildext:inspectClassesForKotlinIC UP-TO-DATE
+> Task :buildSrc:fmpp:jar UP-TO-DATE
+> Task :buildSrc:javacc:jar UP-TO-DATE
+> Task :buildSrc:fmpp:assemble UP-TO-DATE
+> Task :buildSrc:javacc:assemble UP-TO-DATE
+> Task :buildSrc:buildext:jar UP-TO-DATE
+> Task :buildSrc:buildext:assemble UP-TO-DATE
+> Task :buildSrc:test NO-SOURCE
+> Task :buildSrc:check UP-TO-DATE
+> Task :buildSrc:build UP-TO-DATE
+> Task :buildSrc:javacc:autostyleKotlinCheck UP-TO-DATE
+> Task :buildSrc:fmpp:autostyleKotlinCheck UP-TO-DATE
+> Task :buildSrc:buildext:autostyleKotlinCheck UP-TO-DATE
+> Task :buildSrc:fmpp:autostyleKotlinGradleCheck UP-TO-DATE
+> Task :buildSrc:fmpp:autostyleCheck UP-TO-DATE
+> Task :buildSrc:javacc:autostyleKotlinGradleCheck UP-TO-DATE
+> Task :buildSrc:javacc:autostyleCheck UP-TO-DATE
+> Task :buildSrc:fmpp:compileTestKotlin NO-SOURCE
+> Task :buildSrc:javacc:compileTestKotlin NO-SOURCE
+> Task :buildSrc:buildext:autostyleKotlinGradleCheck UP-TO-DATE
+> Task :buildSrc:buildext:autostyleCheck UP-TO-DATE
+> Task :buildSrc:buildext:compileTestKotlin NO-SOURCE
+> Task :buildSrc:javacc:pluginUnderTestMetadata UP-TO-DATE
+> Task :buildSrc:fmpp:pluginUnderTestMetadata UP-TO-DATE
+> Task :buildSrc:fmpp:compileTestJava NO-SOURCE
+> Task :buildSrc:javacc:compileTestJava NO-SOURCE
+> Task :buildSrc:javacc:processTestResources NO-SOURCE
+> Task :buildSrc:fmpp:processTestResources NO-SOURCE
+> Task :buildSrc:fmpp:testClasses UP-TO-DATE
+> Task :buildSrc:javacc:testClasses UP-TO-DATE
+> Task :buildSrc:fmpp:test NO-SOURCE
+> Task :buildSrc:buildext:pluginUnderTestMetadata UP-TO-DATE
+> Task :buildSrc:javacc:test NO-SOURCE
+> Task :buildSrc:buildext:compileTestJava NO-SOURCE
+> Task :buildSrc:buildext:processTestResources NO-SOURCE
+> Task :buildSrc:buildext:testClasses UP-TO-DATE
+> Task :buildSrc:fmpp:validatePlugins UP-TO-DATE
+> Task :buildSrc:fmpp:check UP-TO-DATE
+> Task :buildSrc:javacc:validatePlugins UP-TO-DATE
+> Task :buildSrc:fmpp:build UP-TO-DATE
+> Task :buildSrc:javacc:check UP-TO-DATE
+> Task :buildSrc:buildext:test NO-SOURCE
+> Task :buildSrc:javacc:build UP-TO-DATE
+> Task :buildSrc:buildext:validatePlugins UP-TO-DATE
+> Task :buildSrc:buildext:check UP-TO-DATE
+> Task :buildSrc:buildext:build UP-TO-DATE
+
+> Configure project :
+Building Apache Calcite 1.27.0-SNAPSHOT
+
+> Task :file:processResources NO-SOURCE
+> Task :ubenchmark:compileJava NO-SOURCE
+> Task :ubenchmark:processResources NO-SOURCE
+> Task :ubenchmark:classes UP-TO-DATE
+> Task :ubenchmark:compileTestJava NO-SOURCE
+> Task :ubenchmark:processTestResources NO-SOURCE
+> Task :ubenchmark:testClasses UP-TO-DATE
+> Task :ubenchmark:test NO-SOURCE
+> Task :core:fmppMain UP-TO-DATE
+> Task :file:processTestResources UP-TO-DATE
+> Task :core:javaCCMain UP-TO-DATE
+> Task :core:versionClass UP-TO-DATE
+> Task :core:processResources UP-TO-DATE
+> Task :core:fmppTest UP-TO-DATE
+> Task :core:javaCCTest UP-TO-DATE
+> Task :core:processTestResources UP-TO-DATE
+> Task :linq4j:compileJava UP-TO-DATE
+> Task :linq4j:processResources NO-SOURCE
+> Task :linq4j:classes UP-TO-DATE
+> Task :linq4j:jar UP-TO-DATE
+> Task :linq4j:compileTestJava UP-TO-DATE
+> Task :linq4j:processTestResources NO-SOURCE
+> Task :linq4j:testClasses UP-TO-DATE
+> Task :linq4j:test UP-TO-DATE
+> Task :core:compileKotlin
+
+> Task :core:compileJava
+
+> Task :core:classes
+> Task :file:compileJava UP-TO-DATE
+> Task :file:classes UP-TO-DATE
+> Task :core:inspectClassesForKotlinIC
+> Task :core:compileTestKotlin
+> Task :core:jar
+> Task :core:compileTestJava UP-TO-DATE
+> Task :core:testClasses UP-TO-DATE
+
+> Task :core:test
+
+Gradle Test Executor 7 STANDARD_ERROR
+    Jan 27, 2021 7:08:06 PM org.junit.platform.launcher.core.EngineDiscoveryOrchestrator lambda$logTestDescriptorExclusionReasons$7
+    INFO: 2 containers and 79 tests were excluded because tags match tag expression(s): [slow]
+    Jan 27, 2021 7:08:07 PM org.junit.jupiter.engine.config.EnumConfigurationParameterConverter get
+    INFO: Using parallel execution mode 'CONCURRENT' set via the 'junit.jupiter.execution.parallel.mode.default' configuration parameter.
+
+LinqFrontJdbcBackTest STANDARD_ERROR
+    Jan 27, 2021 7:08:07 PM org.junit.jupiter.engine.config.EnumConfigurationParameterConverter get
+    INFO: Using parallel execution mode 'CONCURRENT' set via the 'junit.jupiter.execution.parallel.mode.default' configuration parameter.
+
+SqlToRelConverterExtendedTest > testGroupingSetsWithNestedColumn() STANDARD_OUT
+    2021-01-27 19:08:07,655 [ForkJoinPool-1-worker-1] INFO  - Logging initialized @2725ms to org.eclipse.jetty.util.log.Slf4jLog
+    2021-01-27 19:08:07,983 [ForkJoinPool-1-worker-1] INFO  - jetty-9.4.15.v20190215; built: 2019-02-15T16:53:49.381Z; git: eb70b240169fcf1abbd86af36482d1c49826fa0b; jvm 1.8.0_275-b01
+    2021-01-27 19:08:08,028 [ForkJoinPool-1-worker-1] INFO  - Started ServerConnector@f4cdd45{HTTP/1.1,[http/1.1]}{0.0.0.0:59277}
+    2021-01-27 19:08:08,028 [ForkJoinPool-1-worker-1] INFO  - Started @3103ms
+    2021-01-27 19:08:08,028 [ForkJoinPool-1-worker-1] INFO  - Service listening on port 59277.
+
+CalciteRemoteDriverTest > testRemotePreparedStatementFetch() STANDARD_OUT
+    2021-01-27 19:08:08,316 [ForkJoinPool-1-worker-6] INFO  - open start - state modified
+    2021-01-27 19:08:08,316 [ForkJoinPool-1-worker-0] INFO  - open start - state modified
+    2021-01-27 19:08:08,339 [ForkJoinPool-1-worker-6] INFO  - Checkpoint start
+    2021-01-27 19:08:08,339 [ForkJoinPool-1-worker-6] INFO  - Checkpoint end - txts: 25
+          1.7sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.test.UdtTest
+          2.4sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.tools.FrameworksTest
+        [0;1m  2.8sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[9], [9] sql/unnest.iq
+
+CalciteRemoteDriverTest STANDARD_OUT
+    2021-01-27 19:08:10,642 [ForkJoinPool-1-worker-1] INFO  - Service terminating.
+
+JdbcFrontLinqBackTest > testIntersect() STANDARD_OUT
+    2021-01-27 19:08:10,649 [ForkJoinPool-1-worker-1] INFO  - Stopped ServerConnector@f4cdd45{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+          3.4sec,   28 completed,   0 failed,   0 skipped, org.apache.calcite.jdbc.CalciteRemoteDriverTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.TestKtTest
+          0.1sec,   16 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlValidatorMatchTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlValidatorDynamicTest
+          0.0sec,    7 completed,   0 failed,   0 skipped, org.apache.calcite.sql.type.RelDataTypeSystemTest
+          0.0sec,   12 completed,   0 failed,   0 skipped, org.apache.calcite.sql.type.SqlTypeUtilTest
+          0.0sec,   10 completed,   0 failed,   0 skipped, org.apache.calcite.sql.type.SqlTypeFactoryTest
+[0;34;1mWARNING[0m   1.6sec,   19 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.test.[0;34;1mJdbcFrontLinqBackTest[0m
+[0;34;1mWARNING[0m   2.0sec,  402 completed,   0 failed, [0;34;1m  4[0m skipped, org.apache.calcite.sql.parser.[0;34;1mSqlParserTest[0m
+        [0;1m  2.3sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[2], [2] sql/winagg.iq
+[0;34;1mWARNING[0m   1.7sec,  406 completed,   0 failed, [0;34;1m  5[0m skipped, org.apache.calcite.sql.parser.parserextensiontesting.[0;34;1mExtensionSqlParserTest[0m
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.sql.test.SqlEqualsDeepTest
+        [0;1m 11.8sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[1], [1] sql/agg.iq
+[0;34;1mWARNING[0m   8.3sec,  297 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.sql.test.[0;34;1mSqlOperatorTest[0m
+          0.8sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.sql.test.DocumentationTest
+[0;34;1mWARNING[0m   0.1sec,   40 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.sql.test.[0;34;1mSqlPrettyWriterTest[0m
+          0.0sec,   36 completed,   0 failed,   0 skipped, org.apache.calcite.sql.test.SqlTypeNameTest
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.sql.SqlSetOptionOperatorTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.sql.SqlNodeTest
+          0.0sec,    8 completed,   0 failed,   0 skipped, org.apache.calcite.sql.validate.SqlValidatorUtilTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.sql.validate.LexEscapeTest
+          0.1sec,   15 completed,   0 failed,   0 skipped, org.apache.calcite.sql.validate.LexCaseSensitiveTest
+
+SqlToRelConverterTest > testDeleteBindModifiableView() STANDARD_OUT
+    2021-01-27 19:08:26,198 [ForkJoinPool-1-worker-0] INFO  - Checkpoint start
+    2021-01-27 19:08:26,198 [ForkJoinPool-1-worker-0] INFO  - Checkpoint end - txts: 279
+        [0;1m 12.5sec[0m, org.apache.calcite.test.[0;1mJdbcFrontJdbcBackTest[0m > [0;1mtestWhere2()[0m
+        [0;1m  2.3sec[0m, org.apache.calcite.materialize.[0;1mLatticeSuggesterTest[0m > [0;1mtestAggregateExpression()[0m
+        [0;1m 19.1sec[0m, org.apache.calcite.test.[0;1mLinqFrontJdbcBackTest[0m > [0;1mtestTableWhere()[0m
+         19.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.LinqFrontJdbcBackTest
+[0;34;1mWARNING[0m  12.7sec,    6 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.test.[0;34;1mJdbcFrontJdbcBackTest[0m
+          5.7sec,  169 completed,   0 failed,   0 skipped, org.apache.calcite.test.RelBuilderTest
+        [0;1m 15.0sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[14], [14] sql/sort.iq
+        [0;1m 17.7sec[0m, org.apache.calcite.tools.[0;1mPlannerTest[0m > [0;1mtestBushyCrossJoin()[0m
+          0.7sec,   19 completed,   0 failed,   0 skipped, org.apache.calcite.test.ScannableTableTest
+
+SqlToRelConverterTest > testJoinNaturalNoCommonColumn() STANDARD_ERROR
+    [Fatal Error] :1:2: XML document structures must start and end within the same entity.
+    ERROR:  'Could not compile stylesheet'
+    FATAL ERROR:  'XML document structures must start and end within the same entity.'
+               :XML document structures must start and end within the same entity.
+          0.1sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlXmlFunctionsTest
+        [0;1m  2.1sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[5], [5] sql/pivot.iq
+        [0;1m  2.0sec[0m, org.apache.calcite.materialize.[0;1mLatticeSuggesterTest[0m > [0;1mtestExpressionInAggregate()[0m
+          6.7sec,   15 completed,   0 failed,   0 skipped, org.apache.calcite.materialize.LatticeSuggesterTest
+          0.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.materialize.NormalizationTrimFieldTest
+          0.7sec,   14 completed,   0 failed,   0 skipped, org.apache.calcite.sql2rel.RelFieldTrimmerTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.rel.metadata.RelMdUtilTest
+          0.0sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.rel.RelDistributionTest
+          0.1sec,   27 completed,   0 failed,   0 skipped, org.apache.calcite.rel.rules.DateRangeRulesTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.rel.rules.EnumerableLimitRuleTest
+          0.1sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.rel.rules.SortRemoveRuleTest
+        [0;1m  3.2sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestJoinManyWay()[0m
+[0;34;1mWARNING[0m  27.8sec,   55 completed,   0 failed, [0;34;1m  2[0m skipped, org.apache.calcite.tools.[0;34;1mPlannerTest[0m
+
+JdbcAdapterTest > testJoin3TablesPlan() STANDARD_OUT
+    Warning: JDBC driver threw non-SQLException
+          8.7sec,   40 completed,   0 failed,   0 skipped, org.apache.calcite.test.JdbcAdapterTest
+        [0;1m 10.5sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[20], [20] sql/misc.iq
+          6.7sec,  321 completed,   0 failed,   0 skipped, org.apache.calcite.rel.rel2sql.RelToSqlConverterTest
+          0.0sec,    3 completed,   0 failed,   0 skipped, org.apache.calcite.rel.rel2sql.RelToSqlConverterStructsTest
+        [0;1m  8.8sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[8], [8] sql/sub-query.iq
+          1.4sec,   17 completed,   0 failed,   0 skipped, org.apache.calcite.rel.logical.ToLogicalConverterTest
+          0.0sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.rel.RelCollationTest
+
+RexExecutorTest > testSystemUserFromContext() STANDARD_OUT
+    Warning: JDBC driver threw non-SQLException
+        [0;1m  2.6sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestDistinctCount2()[0m
+        [0;1m  2.8sec[0m, org.apache.calcite.test.[0;1mSqlToRelConverterTest[0m > [0;1mtestJsonDepth()[0m
+        [0;1m  2.7sec[0m, org.apache.calcite.test.[0;1mSqlToRelConverterExtendedTest[0m > [0;1mtestJsonDepth()[0m
+        [0;1m  3.1sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestIsDistinctFromOperator()[0m
+        [0;1m  3.2sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[21], [21] sql/functions.iq
+        [0;1m  3.4sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestCastToExactNumeric()[0m
+        [0;1m  4.3sec[0m, org.apache.calcite.rex.[0;1mRexExecutorTest[0m > [0;1mtestSelfPopulatingList()[0m
+          4.3sec,   13 completed,   0 failed,   0 skipped, org.apache.calcite.rex.RexExecutorTest
+          0.0sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.rex.RexNormalizeTest
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.rex.RexLosslessCastTest
+          0.0sec,    3 completed,   0 failed,   0 skipped, org.apache.calcite.rex.RexSqlStandardConvertletTableTest
+        [0;1m  6.7sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[17], [17] sql/spatial.iq
+        [0;1m  4.7sec[0m, org.apache.calcite.test.[0;1mCoreQuidemTest[0m > [0;1mtest(String)[0m[23], [23] sql/some.iq
+         38.3sec,   23 completed,   0 failed,   0 skipped, org.apache.calcite.test.CoreQuidemTest
+[0;34;1mWARNING[0m   1.7sec,  196 completed,   0 failed, [0;34;1m  6[0m skipped, org.apache.calcite.test.[0;34;1mRelMetadataTest[0m
+[0;34;1mWARNING[0m   0.6sec,    9 completed,   0 failed, [0;34;1m  2[0m skipped, org.apache.calcite.test.[0;34;1mStreamTest[0m
+[0;34;1mWARNING[0m   2.6sec,  122 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.rex.[0;34;1mRexProgramTest[0m
+          0.0sec,   23 completed,   0 failed,   0 skipped, org.apache.calcite.rex.RexBuilderTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.jdbc.JavaTypeFactoryTest
+          0.0sec,   11 completed,   0 failed,   0 skipped, org.apache.calcite.adapter.clone.ArrayTableTest
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.adapter.enumerable.TypeFinderTest
+          0.0sec,    3 completed,   0 failed,   0 skipped, org.apache.calcite.adapter.enumerable.PhysTypeTest
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.adapter.enumerable.EnumUtilsTest
+          0.0sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.runtime.AutomatonTest
+          0.0sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.runtime.BinarySearchTest
+[0;34;1mWARNING[0m   0.1sec,   34 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.runtime.[0;34;1mEnumerablesTest[0m
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.runtime.DeterministicAutomatonTest
+        [0;1m  6.6sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestMixedEqualAndIsNotDistinctJoin()[0m
+          1.0sec,   14 completed,   0 failed,   0 skipped, org.apache.calcite.plan.RelOptUtilTest
+[0;34;1mWARNING[0m   0.2sec,   16 completed,   0 failed, [0;34;1m  3[0m skipped, org.apache.calcite.plan.volcano.[0;34;1mVolcanoPlannerTest[0m
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.plan.volcano.ComboRuleTest
+[0;34;1mWARNING[0m   0.1sec,    4 completed,   0 failed, [0;34;1m  2[0m skipped, org.apache.calcite.plan.volcano.[0;34;1mVolcanoPlannerTraitTest[0m
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.plan.volcano.CollationConversionTest
+          0.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.plan.volcano.TraitPropagationTest
+          0.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.plan.volcano.TraitConversionTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.plan.RelTraitTest
+        [0;1m  4.4sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestBigQuerySubstringFunction()[0m
+          1.7sec,   27 completed,   0 failed,   0 skipped, org.apache.calcite.plan.RelWriterTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.plan.RelOptPlanReaderTest
+          0.0sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.prepare.LookupOperatorOverloadsTest
+        [0;1m  3.4sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestOrderByVarious()[0m
+[0;31;1mFAILURE[0m   0.1sec, org.apache.calcite.test.[0;1mSqlToRelConverterTest[0m > [0;1mtestDiff()[0m
+    java.lang.ClassCastException: org.apache.calcite.sql.SqlBasicCall cannot be cast to org.apache.calcite.sql.SqlAny
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertExtendedExpression(SqlToRelConverter.java:1988)
+        at org.apache.calcite.sql2rel.SqlToRelConverter$Blackboard.convertExpression(SqlToRelConverter.java:4968)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelectList(SqlToRelConverter.java:4345)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelectImpl(SqlToRelConverter.java:711)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelect(SqlToRelConverter.java:668)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertQueryRecursive(SqlToRelConverter.java:3554)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertQuery(SqlToRelConverter.java:593)
+        at org.apache.calcite.test.SqlToRelTestBase$TesterImpl.convertSqlToRel(SqlToRelTestBase.java:621)
+        at org.apache.calcite.test.SqlToRelTestBase$TesterImpl.assertConvertsTo(SqlToRelTestBase.java:790)
+        [0;1mat org.apache.calcite.test.SqlToRelConverterTest$Sql.convertsTo(SqlToRelConverterTest.java:4227)
+[0m        [0;1mat org.apache.calcite.test.SqlToRelConverterTest$Sql.ok(SqlToRelConverterTest.java:4219)
+[0m        [0;1mat org.apache.calcite.test.SqlToRelConverterTest.testDiff(SqlToRelConverterTest.java:97)
+[0m
+        [0;1m  4.4sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestRandIntegerFunc()[0m
+          0.0sec,   41 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlFunctionsTest
+[0;31;1mFAILURE[0m   0.1sec, org.apache.calcite.test.[0;1mSqlToRelConverterExtendedTest[0m > [0;1mtestDiff()[0m
+    java.lang.ClassCastException: org.apache.calcite.sql.SqlBasicCall cannot be cast to org.apache.calcite.sql.SqlAny
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertExtendedExpression(SqlToRelConverter.java:1988)
+        at org.apache.calcite.sql2rel.SqlToRelConverter$Blackboard.convertExpression(SqlToRelConverter.java:4968)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelectList(SqlToRelConverter.java:4345)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelectImpl(SqlToRelConverter.java:711)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertSelect(SqlToRelConverter.java:668)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertQueryRecursive(SqlToRelConverter.java:3554)
+        at org.apache.calcite.sql2rel.SqlToRelConverter.convertQuery(SqlToRelConverter.java:593)
+        at org.apache.calcite.test.SqlToRelTestBase$TesterImpl.convertSqlToRel(SqlToRelTestBase.java:621)
+        at org.apache.calcite.test.SqlToRelTestBase$TesterImpl.assertConvertsTo(SqlToRelTestBase.java:790)
+        at org.apache.calcite.test.SqlToRelConverterTest$Sql.convertsTo(SqlToRelConverterTest.java:4227)
+        at org.apache.calcite.test.SqlToRelConverterTest$Sql.ok(SqlToRelConverterTest.java:4219)
+        at org.apache.calcite.test.SqlToRelConverterTest.testDiff(SqlToRelConverterTest.java:97)
+        [0;0;90mat org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:675)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:125)
+[0m        [0;0;90mat org.junit.jupiter.engine.extension.TimeoutInvocation.proceed(TimeoutInvocation.java:46)
+[0m        [0;0;90mat org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:139)
+[0m        [0;0;90mat org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:131)
+[0m        [0;0;90mat org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:81)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:104)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:62)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:43)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:35)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+[0m        [0;0;90mat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+[0m        [0;0;90mat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:202)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+[0m        [0;0;90mat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:198)
+[0m        [0;0;90mat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+[0m        [0;0;90mat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService$ExclusiveTask.compute(ForkJoinPoolHierarchicalTestExecutorService.java:171)
+[0m        at java.util.concurrent.RecursiveAction.exec(RecursiveAction.java:189)
+        at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+        at java.util.concurrent.ForkJoinTask.doJoin(ForkJoinTask.java:389)
+        at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:719)
+        [0;0;90mat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService.joinConcurrentTasksInReverseOrderToEnableWorkStealing(ForkJoinPoolHierarchicalTestExecutorService.java:148)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService.invokeAll(ForkJoinPoolHierarchicalTestExecutorService.java:122)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+[0m        [0;0;90mat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+[0m
+        [0;1m  4.4sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestBigQuerySubstrFunction()[0m
+[0;34;1mWARNING[0m   1.3sec,    4 completed,   0 failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.fuzzer.[0;34;1mRexProgramFuzzyTest[0m
+          0.0sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlValidatorFeatureTest
+        [0;1m  4.0sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestPostgresqlSubstrFunction()[0m
+
+SqlToRelConverterTest > testAggregateFunctionForStructInputByName() STANDARD_ERROR
+    [Fatal Error] :1:14: The markup in the document following the root element must be well-formed.
+    [Fatal Error] :1:14: The markup in the document following the root element must be well-formed.
+
+SqlHintsConverterTest > testInvalidTableHints() STANDARD_OUT
+    2021-01-27 19:08:57,332 [ForkJoinPool-1-worker-4] WARN  - Hint: WEIRD_HINT should be registered in the HintStrategyTable
+
+SqlHintsConverterTest STANDARD_OUT
+    2021-01-27 19:08:57,335 [ForkJoinPool-1-worker-4] WARN  - Hint: WEIRD_KV_HINT should be registered in the HintStrategyTable
+
+SqlHintsConverterTest > testInvalidQueryHint() STANDARD_OUT
+    2021-01-27 19:08:57,409 [ForkJoinPool-1-worker-6] WARN  - Hint: WEIRD_HINT should be registered in the HintStrategyTable
+    2021-01-27 19:08:57,410 [ForkJoinPool-1-worker-6] WARN  - Hint: WEIRD_HINT should be registered in the HintStrategyTable
+    2021-01-27 19:08:57,411 [ForkJoinPool-1-worker-6] WARN  - Hint: WEIRD_KV_HINT should be registered in the HintStrategyTable
+    2021-01-27 19:08:57,424 [ForkJoinPool-1-worker-6] WARN  - Hint AGG_STRATEGY only allows single option, allowed options: [ONE_PHASE, TWO_PHASE]
+
+SqlToRelConverterExtendedTest > testOrderByOrdinalDesc() STANDARD_OUT
+    2021-01-27 19:08:57,426 [ForkJoinPool-1-worker-6] WARN  - Hint AGG_STRATEGY only allows single option, allowed options: [ONE_PHASE, TWO_PHASE]
+          0.3sec,   26 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlHintsConverterTest
+        [0;1m  7.9sec[0m, org.apache.calcite.util.[0;1mChunkListTest[0m > [0;1mtestRandom()[0m
+          7.9sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.util.ChunkListTest
+          0.0sec,   10 completed,   0 failed,   0 skipped, org.apache.calcite.util.BitSetsTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.util.PermutationTestCase
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.util.TestUtilTest
+          0.2sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.test.RexShuttleTest
+[0;34;1mWARNING[0m   1.6sec,   14 completed,   0 failed, [0;34;1m  4[0m skipped, org.apache.calcite.test.[0;34;1mJdbcFrontJdbcBackLinqMiddleTest[0m
+        [0;1m 14.3sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestPeriodOperators()[0m
+        [0;1m  2.5sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestDistinctCount()[0m
+          1.8sec,   15 completed,   0 failed,   0 skipped, org.apache.calcite.test.HepPlannerTest
+          1.3sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableStringComparisonTest
+          0.4sec,    8 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableHashJoinTest
+[0;31;1mFAILURE[0m  55.7sec,  474 completed, [0;31;1m  1[0m failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.[0;31;1mSqlToRelConverterTest[0m
+[0;31;1mFAILURE[0m  55.8sec,  474 completed, [0;31;1m  1[0m failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.[0;31;1mSqlToRelConverterExtendedTest[0m
+        [0;1m  2.4sec[0m, org.apache.calcite.util.[0;1mPartiallyOrderedSetTest[0m > [0;1mtestDivisorPoset()[0m
+          0.3sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableRepeatUnionTest
+          6.3sec,   13 completed,   0 failed,   0 skipped, org.apache.calcite.util.PartiallyOrderedSetTest
+          0.0sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.util.ReflectVisitorTest
+          0.0sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.util.PrecedenceClimbingParserTest
+          0.0sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.util.RangeSetTest
+          0.0sec,   12 completed,   0 failed,   0 skipped, org.apache.calcite.util.graph.DirectedGraphTest
+          0.0sec,   10 completed,   0 failed,   0 skipped, org.apache.calcite.util.SourceTest
+          0.1sec,    6 completed,   0 failed,   0 skipped, org.apache.calcite.util.ImmutableBeanTest
+        [0;1m  4.3sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestJdbcFn()[0m
+          0.5sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableSortedAggregateTest
+        [0;1m  2.1sec[0m, org.apache.calcite.test.[0;1mSqlValidatorTest[0m > [0;1mtestLarge()[0m
+          0.5sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableCalcTest
+[0;34;1mWARNING[0m   5.8sec,  465 completed,   0 failed, [0;34;1m  7[0m skipped, org.apache.calcite.test.[0;34;1mSqlValidatorTest[0m
+          1.0sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableCorrelateTest
+          0.1sec,    5 completed,   0 failed,   0 skipped, org.apache.calcite.test.ExceptionMessageTest
+[0;34;1mWARNING[0m   0.4sec,   15 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.test.enumerable.[0;34;1mEnumerableUncollectTest[0m
+          0.5sec,    7 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableJoinTest
+          0.0sec,    3 completed,   0 failed,   0 skipped, org.apache.calcite.test.InduceGroupingTypeTest
+          0.2sec,   22 completed,   0 failed,   0 skipped, org.apache.calcite.test.MutableRelTest
+          1.8sec,   25 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableRepeatUnionHierarchyTest
+[0;34;1mWARNING[0m  13.0sec,   82 completed,   0 failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.[0;34;1mMaterializedViewRelOptRulesTest[0m
+          0.1sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.test.LogicalProjectDigestTest
+        [0;1m  5.3sec[0m, org.apache.calcite.test.[0;1mJdbcTest[0m > [0;1mtestAggMultipleMeasures()[0m
+[0;34;1mWARNING[0m  41.8sec,  322 completed,   0 failed, [0;34;1m 18[0m skipped, org.apache.calcite.test.[0;34;1mJdbcTest[0m
+          0.3sec,   12 completed,   0 failed,   0 skipped, org.apache.calcite.test.CollectionTypeTest
+
+RelOptRulesTest > testAlreadyFalseEliminatesFilter() STANDARD_OUT
+    2021-01-27 19:09:08,471 [ForkJoinPool-1-worker-11] WARN  - $11 is not handled for null for checking implication
+    2021-01-27 19:09:08,471 [ForkJoinPool-1-worker-11] WARN  - $11 is not handled for null for checking implication
+    2021-01-27 19:09:08,479 [ForkJoinPool-1-worker-11] WARN  - $11 is not handled for null for checking implication
+    2021-01-27 19:09:08,480 [ForkJoinPool-1-worker-11] WARN  - $11 is not handled for null for checking implication
+    2021-01-27 19:09:08,481 [ForkJoinPool-1-worker-11] WARN  - $11 is not handled for null for checking implication
+
+RexImplicationCheckerTest > testSimpleBoolean() STANDARD_OUT
+    2021-01-27 19:09:08,496 [ForkJoinPool-1-worker-11] WARN  - BOOLEAN for value of class class java.lang.Boolean is being handled in default way
+        [0;1m  3.4sec[0m, org.apache.calcite.util.[0;1mUtilTest[0m > [0;1mtestConsPerformance()[0m
+          3.9sec,   80 completed,   0 failed,   0 skipped, org.apache.calcite.util.UtilTest
+          0.0sec,    7 completed,   0 failed,   0 skipped, org.apache.calcite.util.mapping.MappingTest
+          0.4sec,   19 completed,   0 failed,   0 skipped, org.apache.calcite.test.RexImplicationCheckerTest
+          2.6sec,   12 completed,   0 failed,   0 skipped, org.apache.calcite.test.enumerable.EnumerableBatchNestedLoopJoinTest
+        [0;1m  4.6sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestMysqlSubstrFunction()[0m
+          0.0sec,   18 completed,   0 failed,   0 skipped, org.apache.calcite.test.RexTransformerTest
+          0.2sec,    8 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlAdvisorJdbcTest
+          0.0sec,    2 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlOperatorBindingTest
+          0.5sec,   22 completed,   0 failed,   0 skipped, org.apache.calcite.test.PigRelBuilderTest
+          0.8sec,   29 completed,   0 failed,   0 skipped, org.apache.calcite.util.ImmutableBitSetTest
+          1.0sec,    7 completed,   0 failed,   0 skipped, org.apache.calcite.test.MultiJdbcSchemaJoinTest
+[0;34;1mWARNING[0m   2.8sec,   27 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.test.[0;34;1mUdfTest[0m
+          0.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.RelMdColumnOriginsTest
+[0;34;1mWARNING[0m   0.4sec,   22 completed,   0 failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.[0;34;1mTableFunctionTest[0m
+          0.3sec,   11 completed,   0 failed,   0 skipped, org.apache.calcite.test.TypeCoercionConverterTest
+          0.1sec,    9 completed,   0 failed,   0 skipped, org.apache.calcite.test.TypeCoercionTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.TableInRootSchemaTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlLimitsTest
+          0.0sec,   20 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlJsonFunctionsTest
+          0.1sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlLineTest
+          0.0sec,    4 completed,   0 failed,   0 skipped, org.apache.calcite.test.FilteratorTest
+          0.1sec,   10 completed,   0 failed,   0 skipped, org.apache.calcite.test.ModelTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.RelMdSelectivityTest
+          0.0sec,    1 completed,   0 failed,   0 skipped, org.apache.calcite.test.CalciteResourceTest
+          1.3sec,    3 completed,   0 failed,   0 skipped, org.apache.calcite.test.SqlStatisticProviderTest
+          1.1sec,   35 completed,   0 failed,   0 skipped, org.apache.calcite.test.InterpreterTest
+          1.7sec,   61 completed,   0 failed,   0 skipped, org.apache.calcite.test.TopDownOptTest
+        [0;1m  3.9sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestSimilarToOperator()[0m
+[0;34;1mWARNING[0m   3.4sec,   99 completed,   0 failed, [0;34;1m 10[0m skipped, org.apache.calcite.test.[0;34;1mMaterializedViewSubstitutionVisitorTest[0m
+
+RelOptRulesTest > testPushProjectPastInnerJoinStrong() STANDARD_ERROR
+    [Fatal Error] :1:2: XML document structures must start and end within the same entity.
+    ERROR:  'Could not compile stylesheet'
+    FATAL ERROR:  'XML document structures must start and end within the same entity.'
+               :XML document structures must start and end within the same entity.
+    ERROR:  'XML document structures must start and end within the same entity.'
+    ERROR:  'com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: XML document structures must start and end within the same entity.'
+        [0;1m  2.4sec[0m, org.apache.calcite.test.[0;1mReflectiveSchemaTest[0m > [0;1mtestAggregateFunctions()[0m
+        [0;1m  3.1sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestStandardSubstringFunction()[0m
+        [0;1m  3.6sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestCastExactNumericLimits()[0m
+        [0;1m  2.7sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestOracleSubstrFunction()[0m
+        [0;1m  2.5sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestRandFunc()[0m
+        [0;1m 13.8sec[0m, org.apache.calcite.test.[0;1mReflectiveSchemaTest[0m > [0;1mtestOp()[0m
+[0;34;1mWARNING[0m  14.9sec,   44 completed,   0 failed, [0;34;1m  5[0m skipped, org.apache.calcite.test.[0;34;1mReflectiveSchemaTest[0m
+        [0;1m  4.1sec[0m, org.apache.calcite.test.[0;1mCalciteSqlOperatorTest[0m > [0;1mtestCastToString()[0m
+[0;34;1mWARNING[0m  46.0sec,  297 completed,   0 failed, [0;34;1m  1[0m skipped, org.apache.calcite.test.[0;34;1mCalciteSqlOperatorTest[0m
+[0;34;1mWARNING[0m  23.9sec,  489 completed,   0 failed, [0;34;1m  3[0m skipped, org.apache.calcite.test.[0;34;1mRelOptRulesTest[0m
+[0;31;1mFAILURE[0m  86.3sec, 6071 completed, [0;31;1m  2[0m failed, [0;34;1m 95[0m skipped, [0;31;1mGradle Test Run :core:test[0m
+
+> Task :core:test FAILED
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.8/userguide/command_line_interface.html#sec:command_line_warnings
+20 actionable tasks: 6 executed, 14 up-to-date

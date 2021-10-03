@@ -1,0 +1,8 @@
+{
+  "tableName": "depts",
+  "schema": {
+    "name": "String",
+    "eptno": "Integer",
+    "num": "Integer"
+  }
+}

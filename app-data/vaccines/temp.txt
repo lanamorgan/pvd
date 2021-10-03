@@ -1,0 +1,11 @@
+==> vaccines_county_data.csv <==
+Date,FIPS,MMWR_week,Recip_County,Recip_State,Series_Complete_Pop_Pct,Series_Complete_Yes,Series_Complete_12Plus,Series_Complete_12PlusPop_Pct,Series_Complete_18Plus,Series_Complete_18PlusPop_Pct,Series_Complete_65Plus,Series_Complete_65PlusPop_Pct,Completeness_pct,Administered_Dose1_Recip,Administered_Dose1_Pop_Pct,Administered_Dose1_Recip_12Plus,Administered_Dose1_Recip_12PlusPop_Pct,Administered_Dose1_Recip_18Plus,Administered_Dose1_Recip_18PlusPop_Pct,Administered_Dose1_Recip_65Plus,Administered_Dose1_Recip_65PlusPop_Pct,SVI_CTGY,Series_Complete_Pop_Pct_SVI,Series_Complete_12PlusPop_Pct_SVI,Series_Complete_18PlusPop_Pct_SVI,Series_Complete_65PlusPop_Pct_SVI,Metro_status,Series_Complete_Pop_Pct_UR_Equity,Series_Complete_12PlusPop_Pct_UR_Equity,Series_Complete_18PlusPop_Pct_UR_Equity,Series_Complete_65PlusPop_Pct_UR_Equity
+10/01/2021,21073,39,Franklin County,KY,68.9,35147,35147,79.8,33115,82,10171,99.9,94.4,39765,78,39763,90.3,37244,92.2,11299,99.9,C,12,12,12,12,Non-metro,8,8,8,8
+10/01/2021,31143,39,Polk County,NE,36.1,1883,1883,41.9,1821,45.1,769,62.4,89.5,,0,,0.0,,0,,0,A,2,3,3,3,Non-metro,6,7,7,7
+10/01/2021,31029,39,Chase County,NE,27.6,1082,1082,32.8,1040,35.2,376,45.1,89.5,,0,,0.0,,0,,0,A,1,2,2,2,Non-metro,5,6,6,6
+10/01/2021,05073,39,Lafayette County,AR,34,2254,2253,38.5,2188,40.5,841,51.4,90.2,2623,39.6,2619,44.7,2533,46.9,928,56.7,D,14,14,15,15,Non-metro,6,6,7,7
+10/01/2021,78010,39,St. Croix Island,VI,0,18573,18555,0,17723,0,5681,0,85.7,21771,0,21729,0.0,20701,0,6414,0,,,,,,,,,,
+10/01/2021,06111,39,Ventura County,CA,61.3,519014,517997,71.7,478775,73.1,116094,84.9,97.4,586109,69.3,584488,80.9,539571,82.4,131182,96,B,8,8,8,8,Metro,4,4,4,4
+10/01/2021,46127,39,Union County,SD,43.6,6954,6954,51.9,6587,54.6,2028,68.5,84.7,7555,47.4,7552,56.3,7080,58.7,2105,71.1,A,3,4,4,3,Metro,3,4,4,3
+10/01/2021,41015,39,Curry County,OR,48.6,11146,11140,53.7,10798,54.9,5432,67.7,97.8,13215,57.6,13205,63.7,12811,65.1,6495,80.9,B,7,8,8,7,Non-metro,7,8,8,7
+10/01/2021,17087,39,Johnson County,IL,32.6,4042,4040,36.9,3945,38.9,1708,62.8,97.8,5350,43.1,5345,48.8,5192,51.2,2185,80.4,B,6,6,6,7,Non-metro,6,6,6,7

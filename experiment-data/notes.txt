@@ -1,0 +1,8 @@
+
+Metadata table ontains application ids, interaction ids, and latency expectations used in other experiment tables.
+
+-datasize is in # of records.
+
+-dta test is autoadmin tests (database tuning advisor)
+
+-for 'distribution', top_3_weight is the percent probability held by the top 3 choices in the distribution; satisified indicates whether a plan was found.
